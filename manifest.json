@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "Quora Collapse",
+  "description": "This extension collapses answers which users have expanded on quora",
+  "version": "1.0.2",
+  "browser_action": {
+    "default_icon": "icon.png"
+  },
+  "content_scripts": [{
+    "js" : [ "inpage.js" ],
+    "matches" : [ "http://www.quora.com/", "http://www.quora.com/*" ],
+    "run_at": "document_end"
+  }]
+}
