@@ -1,6 +1,5 @@
 quora-collapse-plugin
 =====================
-
 The plugin collapses 'all' answers which users have expanded on quora
 similar to twitter.
 
@@ -11,4 +10,13 @@ Usage
 3. Drag-drop the .crx file on to your browser.
 4. Go to http://www.quora.com/ & collapse whenever you want to close all answers.
 
-Also, feel free to open issues if you find any bugs. 
+Preview
+=======
+![Plugin Preview](preview.png)
+
+Credits
+=======
+###### Icon credit: http://iconfinder.com
+###### Idea credit: 5minfork.com‎&& twitter.com
+
+> Also, feel free to open issues if you find any bugs.
