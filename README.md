@@ -1,7 +1,7 @@
-quora-collapse-plugin
+quollapse
 =====================
-The plugin collapses 'all' answers which users have expanded on quora
-similar to twitter.
+Quollapse is a google-chrome plugin which collapses 'all' answers which users 
+have expanded on quora. (A feature similar to what twitter has)
 
 Usage
 =====
